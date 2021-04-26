@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.809.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "weatherapi", "weatherapi.csproj", "{CEB429D5-6744-42A1-9586-29DC49C1278E}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{00BF7082-F20F-4024-9AD1-2E863C23F3B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEB429D5-6744-42A1-9586-29DC49C1278E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEB429D5-6744-42A1-9586-29DC49C1278E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEB429D5-6744-42A1-9586-29DC49C1278E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEB429D5-6744-42A1-9586-29DC49C1278E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00BF7082-F20F-4024-9AD1-2E863C23F3B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00BF7082-F20F-4024-9AD1-2E863C23F3B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00BF7082-F20F-4024-9AD1-2E863C23F3B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00BF7082-F20F-4024-9AD1-2E863C23F3B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19612BBE-805F-4F66-889F-C68470893904}
+	EndGlobalSection
+EndGlobal
